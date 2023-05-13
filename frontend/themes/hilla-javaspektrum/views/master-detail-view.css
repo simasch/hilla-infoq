@@ -1,0 +1,13 @@
+master-detail-view {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+master-detail-view vaadin-form-layout {
+  padding: 10px;
+}
+
+master-detail-view vaadin-grid {
+  height: 100%;
+}
